@@ -13,7 +13,7 @@
 
 ## Real Alpha
 
-Every action matters:
+Every action matters:-
 - Bridging
 - Swapping
 - Minting NFTs
