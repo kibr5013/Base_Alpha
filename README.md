@@ -30,4 +30,4 @@ Stay active.
 Stay consistent.  
 Build on Base.
 
-— powered by Base ⚡
+— powered by Base
