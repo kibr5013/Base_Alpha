@@ -5,7 +5,7 @@
 
 ## Why Base matters
 
-- Cheap transactions
+- Cheap transactions.
 - Fast ecosystem growth
 - Strong builder community
 - Active onchain economy
